@@ -1,30 +1,30 @@
 ---
-# title: QPL 2026
-# feature_image: "images/amsterdam.jpg"
+# title: QPL 2027
+# feature_image: ""
 # feature_text: |
-#   ## Quantum Physics and Logic 2026
+#   ## Quantum Physics and Logic 2027
 ---
 
 <!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
 <center>
-<img src="images/amsterdam.jpg" alt="Amsterdam" width="100%" height="auto">
+<img src="images/.jpg" alt="Odense" width="100%" height="auto">
 </center>
 
-The **23rd International Conference on Quantum Physics and Logic (QPL 2026)**
-will take place from August 17th to August 21st 2026 in Amsterdam, The Netherlands.  
+The **24th International Conference on Quantum Physics and Logic (QPL 2027)**
+will take place from ... to ... in Odense, Denmark.  
 Quantum Physics and Logic is an annual conference that brings together academic and industry researchers working on topics ranging from basic research in the foundations of physics to applications in quantum computing and communication, both for near-term quantum hardware and future large-scale, fault-tolerant devices. The conference places particular emphasis on the application of formal algebraic, logical, compositional, and categorical structures to quantum theory and related areas. Work applying quantum-inspired techniques and structures to other fields---such as (classical) computation, linguistics, artificial intelligence, and causality---is also welcome.
 
 
 ### Important Dates
 
 
-* Abstract submission deadline: Friday February 27th 2026
-* Paper submission deadline: Friday March 6th 2026
-* Notification: April 17th 2026
+* Abstract submission deadline: 
+* Paper submission deadline: 
+* Notification: 
 <!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
-* [Weekend workshops](/tutorial): August 15 -- August 16
-* Conference: August 17th -- August 21st 2026
-* [Career Fair](/career_fair): Thursday August 20th, 16:30 - 19:00
+* [Weekend workshops](/tutorial): 
+* Conference: 
+* [Career Fair](/career_fair): 
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
 Notifications have now been sent out. If you haven't received a notification, let the PC chairs know.
@@ -56,7 +56,7 @@ There will be an award for Best Student Paper that will be determined by the
 Program Committee. Papers eligible for the award are those where all the
 authors are students at the time of submission.
 
-You can submit at this [HotCRP server](https://hotcrp.science.uva.nl/qpl2026/).
+You can submit at this [HotCRP server]().
 
 ### Registration
 
@@ -94,9 +94,7 @@ In addition to the proceedings, we will have a Special Issue at JLAMP. [Check th
 
 ### Contact
 
-For inquiries related to the submission and review process, please write to the PC chair at j.m.m.vandewetering "at" uva.nl and mention QPL in the subject title. 
-
-<!-- For inquiries related to the conference itself, please write to [qpl.conference.2025@gmail.com](mailto:qpl.conference.2025@gmail.com). -->
+For inquiries related to the submission and review process, please write to the PC chair at [Robin Kaarsgaard Sales](mailto:kaarsgaard@imada.sdu.dk) and mention QPL in the subject title. 
 
 <!-- ### Group Photo
 
@@ -106,24 +104,24 @@ For inquiries related to the submission and review process, please write to the 
  
 ### Sponsors
 
-<a href="https://www.quantinuum.com/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 600px; width: 100%; height: auto" src="images/quantinuum logo.svg" alt="Quantinuum">
+<a href="" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 600px; width: 100%; height: auto" src="" alt="">
 </a>
 
-<a href="https://qdnl.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="images/qdnl-logo.svg" alt="QDNL">
+<a href="" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="" alt="">
 </a>
 
-<a href="https://www.quantumsc.nl/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="images/QSC logo final.svg" alt="Quantum Software Consortium">
+<a href="" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="" alt="">
 </a>
 
-<a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
-<img style="vertical-align: middle; max-width: 300px; width: 100%; height: auto" src="images/spooqy-logo-light.png" alt="Spooqy logo">
+<a href="" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="" alt="">
 </a>
 
-<a href="https://magiqware.com/" style="background-image: none; background-size: 0; display: inline-block; background-color: #000; padding: 12px 24px; border-radius: 8px;">
-<img style="vertical-align: middle; max-width: 360px; width: 100%; height: auto" src="images/magiqware-logo.png" alt="MagiQware">
+<a href="" style="background-image: none; background-size: 0;">
+<img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="" alt="">
 </a>
 
 <!--In case we want something that is dark mode aware
@@ -148,10 +146,7 @@ For inquiries related to the submission and review process, please write to the 
 
 ### Programme Committee Co-chairs
 
-<!-- * [Alejandro Díaz-Caro](https://members.loria.fr/adiazcaro) (Inria, LORIA & Universidad Nacional de Quilmes) -->
-* [John van de Wetering](https://vdwetering.name) (University of Amsterdam and QuSoft)
-* [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Université libre de Bruxelles)
-* [Ana Belén Sainz](https://www.absainz.com/) (ICTQT, University of Gdansk)
+* [Robin Kaarsgaard Sales](https://rkaarsgaard.github.io/) (University of Southern Denmark)
 
 
 ### Programme Committee
@@ -218,17 +213,11 @@ For inquiries related to the submission and review process, please write to the 
 
 ### Organising Committee
 
-* [John van de Wetering](https://vdwetering.name/), University of Amsterdam and QuSoft
-* [Sarah Meng Li](https://sarahmengli.com/), University of Amsterdam and QuSoft
-* [Kevin Koenrades](https://www.uva.nl/en/profile/k/o/k.koenrades/k.koenrades.html), University of Amsterdam events coordinator
-* [Stephanie Mak](https://www.uva.nl/en/profile/m/a/s.mak/s.mak.html), University of Amsterdam events coordinator
-
-<!-- * [James Hefford](https://heffordj.github.io/) (Inria, France)
-* Timothée Hoffreumon (Université Paris-Saclay, France)
-* [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) (Chair) (Université libre de Bruxelles, Belgium)
-* Eleftherios-Ermis Tselentis (Université libre de Bruxelles, Belgium)
-* [Zixiuan Liu](https://liu-zixuan.github.io/) (Université libre de Bruxelles, Belgium)
-* [Vladimir Zamdzhiev](https://zamdzhiev.github.io/) (Inria, France) -->
+* [Robin Kaarsgaard Sales](https://rkaarsgaard.github.io/) (University of Southern Denmark)
+* [Zac Thomas Adams]() (University of Southern Denmark)
+* [Mark Damon Walker]() (University of Southern Denmark)
+* [Filippo Barbieri]() (University of Southern Denmark)
+* [Vasilii Nikonov]() (University of Southern Denmark)
 
 ### QPL Steering Committee
 
