@@ -1,10 +1,10 @@
 # scripts
 
-Maintenance scripts for the QPL 2026 program booklet.
+Maintenance scripts for the QPL 2027 program booklet.
 
 ## verify_abstracts.py
 
-Checks every abstract printed in `assets/pdfs/QPL_2026_Program.pdf` against its
+Checks every abstract printed in `assets/pdfs/QPL_2027_Program.pdf` against its
 original, and repairs the ones that have drifted.
 
 The booklet is typeset from `assets/pdfs/abstracts.typ`, whose bodies were
@@ -28,7 +28,7 @@ pip install pymupdf
 ./scripts/verify_abstracts.py -v         # also list the abstracts that check out
 ./scripts/verify_abstracts.py --apply    # rewrite abstracts.typ
 
-cd assets/pdfs && typst compile QPL_2026_Program.typ   # after --apply
+cd assets/pdfs && typst compile QPL_2027_Program.typ   # after --apply
 ```
 
 Talks are matched to their submission through the schedule tables in
@@ -82,9 +82,9 @@ Three inputs, none of which duplicates the others:
   names but the page does not list is reported and skipped.
 
 ```sh
-./scripts/gen_posters.py ~/Downloads/'qpl2026-abstracts posters.txt' \
+./scripts/gen_posters.py ~/Downloads/'qpl2027-abstracts posters.txt' \
                          ~/Downloads/'Indeling posters.xlsx'
-cd assets/pdfs && typst compile QPL_2026_Program.typ
+cd assets/pdfs && typst compile QPL_2027_Program.typ
 ```
 
 Unlike the talk abstracts, these arrive as LaTeX source rather than as typeset

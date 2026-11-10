@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Check every abstract printed in the QPL 2026 program against its original.
+"""Check every abstract printed in the QPL 2027 program against its original.
 
-The program booklet (assets/pdfs/QPL_2026_Program.pdf) is typeset from
+The program booklet (assets/pdfs/QPL_2027_Program.pdf) is typeset from
 assets/pdfs/abstracts.typ, whose bodies were lifted from two places: the front
 matter of the submitted paper in assets/submissions/, and — where the
 submission carries no abstract — the paper's arXiv version.
@@ -18,7 +18,7 @@ the submitted paper and falling back to arXiv.  The provenance footnote
 
 After --apply, re-typeset the booklet:
 
-    cd assets/pdfs && typst compile QPL_2026_Program.typ
+    cd assets/pdfs && typst compile QPL_2027_Program.typ
 
 Talks are matched to their submission through the schedule tables in
 program.md, so the two stay in step automatically.  arXiv ids live in
@@ -564,7 +564,7 @@ def main():
     with open(args.typ, "w", encoding="utf-8") as fh:
         fh.write("\n".join(out))
     print(f"\nwrote {os.path.relpath(args.typ, ROOT)} ({len(edits)} entries updated).")
-    print("re-typeset with:  cd assets/pdfs && typst compile QPL_2026_Program.typ")
+    print("re-typeset with:  cd assets/pdfs && typst compile QPL_2027_Program.typ")
     return 0
 
 

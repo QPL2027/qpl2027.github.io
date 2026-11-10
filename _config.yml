@@ -22,10 +22,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://qpl2026.github.io/'
+url: 'https://qpl2027.github.io/'
 baseurl: ''
 title: 'QPL'
-description: 'Official Website for the QPL 2026 Conference'
+description: 'Official Website for the QPL 2027 Conference'
 permalink: pretty
 logo: "/images/logo.png"
 custom_css:
@@ -49,32 +49,15 @@ navigation_header:
   url: /career_fair/
 - title: Registration
   url: /registration/
-- title: Contact
-  url: /#contact
 - title: Sponsors
-  url: /#sponsors
-- title: Code of Conduct
-  url: /#code-of-conduct
-
-- title: Accepted Submissions
-  url: /accepted/
-# - title: Program
-#   url: /program/
+  url: /sponsors
+# - title: Accepted Submissions
+#  url: /accepted/
 
 # Footer nav
 navigation_footer:
   - title: Back to top
     url: "#top"
-
-# Collections
-# collections:
-#  posts:
-#  title: Posts
-#  output: true
-#  description: "My thoughts and ideas"
-#  feature_text: |
-#    Welcome to my blog
-#  feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
 defaults:

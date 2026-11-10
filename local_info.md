@@ -1,12 +1,16 @@
 ---
 title: Local Information
+permalink: /local_info/
 ---
 
-<img style="vertical-align: middle; max-width: 500px; width: 100%; height: auto" src="../images/" alt="">
+<figure>
+  <img src="../images/sdu.jpg" alt="SDU" style="max-width: 500px; width: 100%; height: auto">
+  <figcaption>&copy; Destination Fyn, Erhvervshus Fyn</figcaption>
+</figure>
 
-QPL2027 will take place at the [Odense campus]() of the [University of Southern Denmark](https://www.sdu.dk/en).
+QPL2027 will take place at the [Odense campus](https://maps.app.goo.gl/WZfW4wtYZuPVoQHU6) of the [University of Southern Denmark](https://www.sdu.dk/en).
 
-Odense campus can be easily reached.
+Odense campus can be easily reached by tram from the Odense central station.
 
 ### Information for presenting posters
 
@@ -46,6 +50,8 @@ Here is a list of local printers:
 
 #### Bars
 * Bodegaen
+* Viggo
+* Ryans Pub
 
 
 ### Visiting Odense

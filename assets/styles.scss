@@ -75,6 +75,16 @@ table {
   border-spacing: 30px;
 }
 
+ul {
+  padding-inline-start: 28px;
+}
+
+figcaption {
+  color: lightgrey;
+  margin-top: -10px;
+  font-size: 1rem;
+}
+
 // Career Fair page: a bulleted list where each company is a click-to-expand
 // dropdown. The Alembic theme hides the native <details> disclosure triangle,
 // so we add our own caret (in the theme's green link colour) to make it

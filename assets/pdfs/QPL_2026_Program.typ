@@ -1,4 +1,4 @@
-// QPL 2026 program, styled after qpl_program.pdf (Typst-generated, Libertinus Serif)
+// QPL 2027 program, styled after qpl_program.pdf (Typst-generated, Libertinus Serif)
 
 #set page(paper: "a4", margin: (x: 2.5cm, y: 2cm), numbering: "1")
 #set text(font: "Libertinus Serif", size: 10.5pt)
@@ -53,7 +53,7 @@
 #v(-0.5em)
 #align(center, image("logos/qpl-logo.png", width: 3.4cm))
 
-= QPL 2026 program (17 -- 21 August 2026 in Amsterdam, NL)
+= QPL 2027 program (17 -- 21 August 2027 in Amsterdam, NL)
 
 // --- Sponsor band ---------------------------------------------------------
 // Every logo is scaled to a shared optical height rather than a shared width,
@@ -100,7 +100,7 @@
 
 == Overview of the program
 
-Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the University of Amsterdam’s Roeterseiland campus. The conference runs through Friday, August 21, 2026, with three parallel sessions each afternoon. On Wednesday, there is a boat tour and conference dinner after the parallel sessions. On Thursday, a career fair follows the parallel sessions.
+Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the University of Amsterdam’s Roeterseiland campus. The conference runs through Friday, August 21, 2027, with three parallel sessions each afternoon. On Wednesday, there is a boat tour and conference dinner after the parallel sessions. On Thursday, a career fair follows the parallel sessions.
 
 #v(0.4em)
 
@@ -557,7 +557,7 @@ Welcome to Amsterdam! Registration opens at 8:50 AM on Monday, August 17, at the
     [],
     talkcell([Paul Becsi, Matthew Joseph Hoban],
       [Bounding classical and quantum correlations in Bayesian networks with quasiprobabilities]),
-  table.cell(colspan: 4, align: center, text(weight: "bold", [End of QPL 2026. Goodbye!])),
+  table.cell(colspan: 4, align: center, text(weight: "bold", [End of QPL 2027. Goodbye!])),
 )
 
 #include "abstracts.typ"

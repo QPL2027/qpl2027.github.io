@@ -1,4 +1,4 @@
-# Abstract coverage for the QPL 2026 program
+# Abstract coverage for the QPL 2027 program
 
 94 scheduled talks.
 
@@ -19,31 +19,31 @@ Abstract provided directly rather than extracted from a paper or arXiv.
 
 - **Monday 14:55 – 15:20 · Parallel C** — A complete and natural rule set for multi-qudit Clifford circuits in all odd prime dimensions
   - authors: Xiaoning Bian, Sarah Meng Li, Neil J. Ross, John van de Wetering, Yuming Zhao
-  - `qpl2026-paper27.pdf`
+  - `qpl2027-paper27.pdf`
 - **Wednesday 16:40 – 17:05 · Parallel B** — A three-way normal form for stabiliser codes across ZX diagrams, circuits, and tableaus
   - authors: Lia Yeh, Jiaxin Huang, Aleks Kissinger, Sarah Meng Li, John van de Wetering
-  - `qpl2026-paper187.pdf`
+  - `qpl2027-paper187.pdf`
 - **Tuesday 16:40 – 17:05 · Parallel C** — Probing the composition of processes with first-order-ISOMIX logic
   - authors: Raphaël Le Bihan, Alastair Abbott, Mnacho Echenim
-  - `qpl2026-paper158.pdf`
+  - `qpl2027-paper158.pdf`
 - **Thursday 14:55 – 15:20 · Parallel C** — Spurious quantum correlations
   - authors: Shashaank Khanna, Matthew Pusey, Roger Colbeck
-  - `qpl2026-paper59.pdf`
+  - `qpl2027-paper59.pdf`
 - **Wednesday 14:55 – 15:20 · Parallel C** — Subsystems as subsets of quantum channels, and the strange case of blind agents
   - authors: Nicolas Moulonguet, Augustin Vanrietvelde
-  - `qpl2026-paper94.pdf`
+  - `qpl2027-paper94.pdf`
 - **Friday 16:15 – 16:40 · Parallel C** — Device independent quantum key distribution with a single measurement per site
   - authors: Raffaele D'Avino, Lorenzo Caramelli, Raja Yehia, Gabriel Senno, Roberto González Pousa, Antonio Acín, Tamás Kriváchy
-  - `qpl2026-paper144.pdf`
+  - `qpl2027-paper144.pdf`
 - **Thursday 15:45 – 16:10 · Parallel B** — Algebraic techniques for photonic state preparation and characterization
   - authors: Massimo Frigerio, Mattia Walschaers, Andrei Aralov, Carlos Ernesto Lopetegui-Gonzalez, Emilie Gillet
-  - `qpl2026-final64.pdf`
+  - `qpl2027-final64.pdf`
 - **Tuesday 16:15 – 16:40 · Parallel A** — No extension of the Quantum Tensor Product admits a superposition principle
   - authors: Vincenzo Fiorentino, Kuntal Sengupta
-  - `qpl2026-paper53.pdf`
+  - `qpl2027-paper53.pdf`
 - **Wednesday 14:30 – 14:55 · Parallel A** — Causal inequalities witness non-stabilizerness without magic
   - authors: Leonardo Vaglini, Nasra Daher Ahmed, Ravi Kunjwal
-  - `qpl2026-paper168.pdf`
+  - `qpl2027-paper168.pdf`
 
 ## Matched to arXiv under a different title
 

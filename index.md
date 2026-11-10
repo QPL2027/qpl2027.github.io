@@ -5,30 +5,29 @@
 #   ## Quantum Physics and Logic 2027
 ---
 
-<!-- ![Varna](images/varna.jpeg "Varna, Bulgaria") -->
-<center>
-<img src="images/.jpg" alt="Odense" width="100%" height="auto">
-</center>
 
-The **24th International Conference on Quantum Physics and Logic (QPL 2027)**
-will take place from ... to ... in Odense, Denmark.  
-Quantum Physics and Logic is an annual conference that brings together academic and industry researchers working on topics ranging from basic research in the foundations of physics to applications in quantum computing and communication, both for near-term quantum hardware and future large-scale, fault-tolerant devices. The conference places particular emphasis on the application of formal algebraic, logical, compositional, and categorical structures to quantum theory and related areas. Work applying quantum-inspired techniques and structures to other fields---such as (classical) computation, linguistics, artificial intelligence, and causality---is also welcome.
+<figure>
+  <img src="images/odense.jpg" alt="Odense" width="100%" height="auto">
+  <figcaption>&copy; Destination Fyn, Erhvervshus Fyn</figcaption>
+</figure>
+
+The <b>24th International Conference on Quantum Physics and Logic (QPL 2027)</b> will be held from 5 to 9 July 2027 in Odense, Denmark. QPL is an annual conference that brings together researchers from academia and industry to explore a broad range of topics, from the fundamental foundations of physics to applications in quantum computing and communication, encompassing both near-term quantum technologies and future large-scale, fault-tolerant systems.
+
+The conference particularly emphasizes the use of formal algebraic, logical, compositional, and categorical methods in the study of quantum theory and related fields. It also welcomes contributions that apply quantum-inspired concepts and techniques to other disciplines, including classical computation, linguistics, artificial intelligence, and causality.
 
 
 ### Important Dates
 
-
-* Abstract submission deadline: 
-* Paper submission deadline: 
-* Notification: 
-<!-- * Camera-ready deadline (revised accepted proceedings manuscripts): 15 June 2025 -->
-* [Weekend workshops](/tutorial): 
-* Conference: 
-* [Career Fair](/career_fair): 
+* Abstract submission deadline: Monday March, 1st 2027
+* Paper submission deadline: Monday March, 8th 2027
+* Notification: Monday April, 19th 2027
+* Conference: Monday July, 5th to Friday, 9th 2027
+<!-- * [Weekend workshops](/tutorial): -->
+<!-- * [Career Fair](/career_fair): -->
 
 All deadlines are stated with respect to the [Anywhere on Earth (AoE) time zone](https://www.timeanddate.com/time/zones/aoe).
-Notifications have now been sent out. If you haven't received a notification, let the PC chairs know.
- <!-- The abstract submission deadline is just for your submission to be in the system so that the Programme Committee has time to divide up the submissions. The submission (whether a talk proposal, proceedings or poster), does not have to be finalised until the paper submission deadline. -->
+
+For any inquiries regarding the conference organization, please contact us at [qpl2027@sdu.dk](mailto:qpl2027@sdu.dk). 
 
 
 ### Submissions
@@ -48,24 +47,21 @@ Prospective speakers are invited to submit one (or more) of the following:
 Proceedings submissions and talk proposals that are not accepted to the conference are automatically considered for a poster.
 
 Page limits exclude bibliography, acknowledgements and appendices (which may be read at the
-discretion of reviewers). 
-<!-- All submissions will be handled by EasyChair.
-[Submit here](https://easychair.org/conferences/?conf=qpl2025).
- -->
+discretion of reviewers).
 There will be an award for Best Student Paper that will be determined by the
 Program Committee. Papers eligible for the award are those where all the
 authors are students at the time of submission.
 
-You can submit at this [HotCRP server]().
+For inquiries related to the submission and review process, please write to the PC chair at [Robin Kaarsgaard](mailto:kaarsgaard@imada.sdu.dk) and mention QPL in the subject title. 
 
 ### Registration
 
-Registration is now [open](/registration).
+Registration is not open yet. <!-- [open](/registration)-->
 
-This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. You can find more details [here](/tutorial). There is limited availability for these tutorials, preference will be given to registrations from junior attendees and early registrations.
-<!-- Registration is now closed. Please see [here](/registration/) for further information regarding registrations. -->
+<!-- This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. You can find more details [here](/tutorial). There is limited availability for these tutorials, preference will be given to registrations from junior attendees and early registrations.
+Registration is now closed. Please see [here](/registration/) for further information regarding registrations.
 
-<!-- ### Presentations
+### Presentations
 
 Authors of accepted proceedings and non-proceedings submissions will be invited
 to give a talk. Authors of accepted poster submissions will be invited to present
@@ -73,8 +69,8 @@ their work at the poster session.
 
 [Conference program](/program/)
 
-All talks will be 20 minutes long plus 5 minutes for questions. -->
-<!-- 
+All talks will be 20 minutes long plus 5 minutes for questions.
+
 #### Posters
 
 Please see [here](/local_info/#poster-instructions) for guidance on preparing posters. -->
@@ -88,20 +84,8 @@ accepted proceedings submissions are allowed to use up to three extra pages
 (i.e. up to 15 pages excluding bibliography) to address reviewer concerns and
 suggestions under the proviso that they do not introduce new results.
 
-<!-- #### Special Issue
-In addition to the proceedings, we will have a Special Issue at JLAMP. [Check the details and the call-for-papers at the journal site](https://www.sciencedirect.com/special-issue/321902/special-issue-on-quantum-physics-and-logic-qpl-2024-and-qpl-2025).
- -->
+{% comment %}
 
-### Contact
-
-For inquiries related to the submission and review process, please write to the PC chair at [Robin Kaarsgaard Sales](mailto:kaarsgaard@imada.sdu.dk) and mention QPL in the subject title. 
-
-<!-- ### Group Photo
-
-<center>
-<img src="images/conference_photo.jpg" alt="group-photo" width="100%" height="auto">
-</center> -->
- 
 ### Sponsors
 
 <a href="" style="background-image: none; background-size: 0;">
@@ -124,33 +108,16 @@ For inquiries related to the submission and review process, please write to the 
 <img style="vertical-align: middle; max-width: 550px; width: 100%; height: auto" src="" alt="">
 </a>
 
-<!--In case we want something that is dark mode aware
- <div>
-<a href="https://spooqy.ai/" style="background-image: none; background-size: 0;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="images/spooqy-logo-dark.png">
-<source media="(prefers-color-scheme: light)" srcset="images/spooqy-logo-light.png">
-<img src="images/spooqy-logo-light.png" alt="Spooqy logo" style="vertical-align: middle; max-width: 300px; width: 100%; height: auto">
-</picture>
-</a>
-</div> -->
-
-<!--
-### Organisational Support and Funding
-
-
-### Other
-
-<img style="vertical-align: middle; max-width: 400px; width: 100%; height: auto" src="images/glarus.png" alt="VTU">
--->
 
 ### Programme Committee Co-chairs
 
-* [Robin Kaarsgaard Sales](https://rkaarsgaard.github.io/) (University of Southern Denmark)
+* [Robin Kaarsgaard](https://rkaarsgaard.github.io/) (University of Southern Denmark)
 
+{% endcomment %}
 
 ### Programme Committee
-
+TBA
+{% comment %}
 * Alastair Abbott, Inria Grenoble
 * Matthew Amy, Simon Fraser University
 * Pablo Arrighi, University of Paris-Saclay
@@ -210,14 +177,15 @@ For inquiries related to the submission and review process, please write to the 
 * Maris Ozols, University of Amsterdam and QuSoft
 * Robert Spekkens, Perimeter Institute
 * Juliana Vizzotto, Universidade Federal de Santa Maria
+{% endcomment %}
 
 ### Organising Committee
 
-* [Robin Kaarsgaard Sales](https://rkaarsgaard.github.io/) (University of Southern Denmark)
-* [Zac Thomas Adams]() (University of Southern Denmark)
-* [Mark Damon Walker]() (University of Southern Denmark)
-* [Filippo Barbieri]() (University of Southern Denmark)
-* [Vasilii Nikonov]() (University of Southern Denmark)
+* [Robin Kaarsgaard](https://rkaarsgaard.github.io/) (University of Southern Denmark)
+* [Zac Thomas Adams](mailto:zathad@sdu.dk) (University of Southern Denmark)
+* [Mark Damon Walker](mailto:markwalker@imada.sdu.dk) (University of Southern Denmark)
+* [Filippo Barbieri](https://www.linkedin.com/in/filippo-barbieri-02/) (University of Southern Denmark)
+* [Vasilii Nikonov](mailto:vanik26@student.sdu.dk) (University of Southern Denmark)
 
 ### QPL Steering Committee
 
@@ -238,8 +206,7 @@ All communication should be appropriate for a professional audience including pe
 The dedicated safety and inclusion team will oversee reports of Code of Conduct violation. The team can be contacted at [qpl.safety.inclusion@gmail.com](mailto:qpl.safety.inclusion@gmail.com). The full team is to be announced later, but currently consists of:
 
 * Ana Belén Sainz (ICTQT, University of Gdańsk)
-* Gina Muus (University of Amsterdam, QuSoft)
-* John van de Wetering (University of Amsterdam, QuSoft)
+* Robin Kaarsgaard (University of Southern Denmark)
 
 Harassment may include but is not limited to:
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or technology choices;

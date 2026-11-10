@@ -1,8 +1,13 @@
 ---
 title: Career Fair
+permalink: /career_fair/
 ---
 
-This year QPL will be hosting a career fair, giving attendees the opportunity to meet companies working across the quantum industry. This will take place after the final talks on Thursday afternoon, from 16:30 to 19:00 at De Brug in the main [Roeterseiland campus](https://maps.app.goo.gl/aL4S6p95Vg45XcnCA) building. 
+This year QPL will be hosting a career fair, giving attendees the opportunity to meet companies working across the quantum industry.
+
+{% comment %}
+
+This will take place after the final talks on Thursday afternoon, from 16:30 to 19:00 at De Brug in the main [Roeterseiland campus](https://maps.app.goo.gl/aL4S6p95Vg45XcnCA) building. 
 
 The career fair is accessible to everyone free of charge, including those not registered for the conference. The event will be an informal affair, where we will give conference attendees, prospective employees and organisations a chance to mingle and connect. We will provide some snacks and drinks.
 
@@ -69,10 +74,4 @@ The following companies and organisations will be present. Click each one to see
 <p><a href="https://www.wiqd.nl/" target="_blank" rel="noopener">wiqd.nl</a></p>
 </details></li>
 
-<!-- <li><details>
-<summary><strong>Quantum.Amsterdam</strong></summary>
-<p>The Amsterdam innovation hub for quantum software, technology, and applications — founded by QuSoft, CWI, and the University of Amsterdam as part of Quantum Delta NL — connecting academia, industry, and startups through shared facilities, training, and talent development.</p>
-<p><a href="https://www.quantum.amsterdam/" target="_blank" rel="noopener">quantum.amsterdam</a></p>
-</details></li>
-</ul>
- -->
+{% endcomment %}

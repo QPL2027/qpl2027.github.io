@@ -168,7 +168,7 @@ def extract(path):
         chunk, j, blocked = ([rest] if len(rest) > 40 else []), i + 1, False
         while j < len(bs) and not chunk:
             # a section heading before any abstract text means this "Abstract" was
-            # only a subtitle (e.g. "Abstract for QPL 2026 based on [1]")
+            # only a subtitle (e.g. "Abstract for QPL 2027 based on [1]")
             if is_heading(bs[j]):
                 blocked = True
                 break

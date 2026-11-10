@@ -15,9 +15,9 @@ Three inputs, none of which duplicates the others:
 Only submissions that appear in the spreadsheet are printed, ordered by board
 number. A submission occupying several boards is printed once, over the range.
 
-    ./scripts/gen_posters.py ~/Downloads/'qpl2026-abstracts posters.txt' \
+    ./scripts/gen_posters.py ~/Downloads/'qpl2027-abstracts posters.txt' \
                              ~/Downloads/'Indeling posters.xlsx'
-    cd assets/pdfs && typst compile QPL_2026_Program.typ
+    cd assets/pdfs && typst compile QPL_2027_Program.typ
 
 The abstracts arrive as LaTeX source rather than as typeset text, so the
 markup an author used has to be resolved before it can be set: see `clean`.

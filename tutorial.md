@@ -127,7 +127,8 @@ permalink: /tutorial/
 </style>
 
 This year, QPL will be preceded by a weekend workshop consisting of tutorials on some of the main specialised topics of the conference. This is to give, especially junior attendees and those for whom this is their first QPL, a chance to learn some more background on these important topics so that they can better follow the research-level talks in the main conference.
-<!-- The programme also allows ample time for you to get to know your fellow attendees and explore the city. -->
+
+{% comment %}
 
 <table class="tutorial-table">
   <colgroup>
@@ -210,19 +211,19 @@ This year, QPL will be preceded by a weekend workshop consisting of tutorials on
 
 <p class="tutorial-notes tutorial-notes--zx">
   📄 <strong>ZX Calculus — slides by Lia Yeh and Razin A. Shaikh:</strong>
-  <a href="{{ '/assets/pdfs/QPL_2026_ZX_Tutorial_Slides_Part1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Part 1 — Lia Yeh (pdf)</a> ·
-  <a href="{{ '/assets/pdfs/QPL_2026_ZX_Tutorial_Slides_Part2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Part 2 — Razin A. Shaikh (pdf)</a>
+  <a href="{{ '/assets/pdfs/QPL_2027_ZX_Tutorial_Slides_Part1.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Part 1 — Lia Yeh (pdf)</a> ·
+  <a href="{{ '/assets/pdfs/QPL_2027_ZX_Tutorial_Slides_Part2.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Part 2 — Razin A. Shaikh (pdf)</a>
 </p>
 
 <p class="tutorial-notes tutorial-notes--gpt">
   📄 <strong>Generalised Probabilistic Theories — slides by David Schmid:</strong>
-  <a href="{{ '/assets/pdfs/QPL_2026_GPT_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Generalized probabilistic theories (pdf)</a><br />
+  <a href="{{ '/assets/pdfs/QPL_2027_GPT_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Generalized probabilistic theories (pdf)</a><br />
   More detailed lectures on generalized probabilistic theories (and other topics) can be found in David Schmid's <a class="inline-link" href="https://pirsa.org/c25052" target="_blank" rel="noopener noreferrer">quantum foundations course on PIRSA</a>.
 </p>
 
 <p class="tutorial-notes tutorial-notes--causality">
   📄 <strong>Causality — slides by Jessica Bavaresco:</strong>
-  <a href="{{ '/assets/pdfs/QPL_2026_Causality_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Causality in higher-order quantum theory (pdf)</a>
+  <a href="{{ '/assets/pdfs/QPL_2027_Causality_Tutorial_Slides.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Causality in higher-order quantum theory (pdf)</a>
 </p>
 
 ## Speaker Bios and Tutorial Abstracts
@@ -323,3 +324,5 @@ There is limited availability for attending these tutorials, preference will be 
 Location: Amsterdam University Library UvA, [Vendelstraat 2-8, 1012 XX Amsterdam](https://www.google.com/maps/place/Amsterdam+University+Library/@51.9905877,5.9003475,14z/data=!3m1!4b1!4m6!3m5!1s0x47c609c1e91a2a27:0x36216e405eeb19c2!8m2!3d52.3686498!4d4.8951113!16s%2Fm%2F0n50g7t?entry=ttu&g_ep=EgoyMDI2MDQyMC4wIKXMDSoASAFQAw%3D%3D).
 
 Room: Surgical Theatre (A1.01), First floor of the A-wing
+
+{% endcomment %}
