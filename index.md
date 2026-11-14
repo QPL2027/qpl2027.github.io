@@ -11,7 +11,7 @@
   <figcaption>&copy; Destination Fyn, Erhvervshus Fyn</figcaption>
 </figure>
 
-The <b>24th International Conference on Quantum Physics and Logic (QPL 2027)</b> will be held from 5 to 9 July 2027 in Odense, Denmark. QPL is an annual conference that brings together researchers from academia and industry to explore a broad range of topics, from the fundamental foundations of physics to applications in quantum computing and communication, encompassing both near-term quantum technologies and future large-scale, fault-tolerant systems.
+The <b>24th International Conference on Quantum Physics and Logic (QPL 2027)</b> will be held from 5 to 9 July 2027 in Odense, Denmark, hosted by the <a href="https://www.sdu.dk/qm">Centre for Quantum Mathematics</a> at the <a href="https://www.sdu.dk/en/">University of Southern Denmark</a>. QPL is an annual conference that brings together researchers from academia and industry to explore a broad range of topics, from the fundamental foundations of physics to applications in quantum computing and communication, encompassing both near-term quantum technologies and future large-scale, fault-tolerant systems.
 
 The conference particularly emphasizes the use of formal algebraic, logical, compositional, and categorical methods in the study of quantum theory and related fields. It also welcomes contributions that apply quantum-inspired concepts and techniques to other disciplines, including classical computation, linguistics, artificial intelligence, and causality.
 
