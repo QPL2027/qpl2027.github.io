@@ -4,6 +4,8 @@ title: Accepted Submissions
 permalink: /accepted/
 ---
 
+{% comment %}
+
 <style>
   /* Keep the tables within the same content boundary as the rest of the
      page (and the home page): force them to respect the container width
@@ -1074,3 +1076,5 @@ board number, which is shown on the board itself — see the
     </tr>
   </tbody>
 </table>
+
+{% endcomment %}

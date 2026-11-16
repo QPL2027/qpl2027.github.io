@@ -1,10 +1,7 @@
 ---
-# title: QPL 2027
-# feature_image: ""
-# feature_text: |
-#   ## Quantum Physics and Logic 2027
+title: "QPL 2027 – Quantum Physics and Logic"
+description: "Join the 24th International Conference on Quantum Physics and Logic, 5–9 July 2027 in Odense, Denmark."
 ---
-
 
 <figure>
   <img src="images/odense.jpg" alt="Odense" width="100%" height="auto">

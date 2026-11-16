@@ -22,10 +22,10 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://qpl2027.github.io/'
+url: 'https://qpl2027.github.io'
 baseurl: ''
-title: 'QPL'
-description: 'Official Website for the QPL 2027 Conference'
+title: 'QPL 2027 - Quantum Physics and Logic'
+description: 'Official website of the 24th International Conference on Quantum Physics and Logic (QPL 2027), taking place 5-9 July 2027 in Odense, Denmark.'
 permalink: pretty
 logo: "/images/logo.png"
 custom_css:
